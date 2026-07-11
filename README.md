@@ -60,4 +60,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0607-sales-person](https://github.com/codietg/DSA_leet/tree/master/0607-sales-person) |
+| [1587-bank-account-summary-ii](https://github.com/codietg/DSA_leet/tree/master/1587-bank-account-summary-ii) |
 <!---LeetCode Topics End-->
