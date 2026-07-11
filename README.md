@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/codietg/DSA_leet/tree/master/0649-dota2-senate) |
+## Database
+|  |
+| ------- |
+| [0607-sales-person](https://github.com/codietg/DSA_leet/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
