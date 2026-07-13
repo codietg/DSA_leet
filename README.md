@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/codietg/DSA_leet/tree/master/0649-dota2-senate) |
+| [0933-number-of-recent-calls](https://github.com/codietg/DSA_leet/tree/master/0933-number-of-recent-calls) |
 ## Database
 |  |
 | ------- |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-the-latest-login-in-2020](https://github.com/codietg/DSA_leet/tree/master/1890-the-latest-login-in-2020) |
 | [1965-employees-with-missing-information](https://github.com/codietg/DSA_leet/tree/master/1965-employees-with-missing-information) |
 | [3436-find-valid-emails](https://github.com/codietg/DSA_leet/tree/master/3436-find-valid-emails) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/codietg/DSA_leet/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/codietg/DSA_leet/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
