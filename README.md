@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-the-latest-login-in-2020](https://github.com/codietg/DSA_leet/tree/master/1890-the-latest-login-in-2020) |
 | [1965-employees-with-missing-information](https://github.com/codietg/DSA_leet/tree/master/1965-employees-with-missing-information) |
 | [3220-odd-and-even-transactions](https://github.com/codietg/DSA_leet/tree/master/3220-odd-and-even-transactions) |
+| [3421-find-students-who-improved](https://github.com/codietg/DSA_leet/tree/master/3421-find-students-who-improved) |
 | [3436-find-valid-emails](https://github.com/codietg/DSA_leet/tree/master/3436-find-valid-emails) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/codietg/DSA_leet/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3564-seasonal-sales-analysis](https://github.com/codietg/DSA_leet/tree/master/3564-seasonal-sales-analysis) |
