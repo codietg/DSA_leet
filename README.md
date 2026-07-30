@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codietg/DSA_leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0228-summary-ranges](https://github.com/codietg/DSA_leet/tree/master/0228-summary-ranges) |
 | [0735-asteroid-collision](https://github.com/codietg/DSA_leet/tree/master/0735-asteroid-collision) |
 | [1207-unique-number-of-occurrences](https://github.com/codietg/DSA_leet/tree/master/1207-unique-number-of-occurrences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/codietg/DSA_leet/tree/master/2225-find-players-with-zero-or-one-losses) |
