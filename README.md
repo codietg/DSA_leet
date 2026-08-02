@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codietg/DSA_leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/codietg/DSA_leet/tree/master/0228-summary-ranges) |
+| [0349-intersection-of-two-arrays](https://github.com/codietg/DSA_leet/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/codietg/DSA_leet/tree/master/0414-third-maximum-number) |
 | [0697-degree-of-an-array](https://github.com/codietg/DSA_leet/tree/master/0697-degree-of-an-array) |
 | [0735-asteroid-collision](https://github.com/codietg/DSA_leet/tree/master/0735-asteroid-collision) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/codietg/DSA_leet/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/codietg/DSA_leet/tree/master/0349-intersection-of-two-arrays) |
 | [0697-degree-of-an-array](https://github.com/codietg/DSA_leet/tree/master/0697-degree-of-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/codietg/DSA_leet/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/codietg/DSA_leet/tree/master/1657-determine-if-two-strings-are-close) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/codietg/DSA_leet/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/codietg/DSA_leet/tree/master/0414-third-maximum-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/codietg/DSA_leet/tree/master/1657-determine-if-two-strings-are-close) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/codietg/DSA_leet/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -109,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codietg/DSA_leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/codietg/DSA_leet/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/codietg/DSA_leet/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
