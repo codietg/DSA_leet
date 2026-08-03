@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/codietg/DSA_leet/tree/master/0414-third-maximum-number) |
 | [0697-degree-of-an-array](https://github.com/codietg/DSA_leet/tree/master/0697-degree-of-an-array) |
 | [0735-asteroid-collision](https://github.com/codietg/DSA_leet/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/codietg/DSA_leet/tree/master/0746-min-cost-climbing-stairs) |
 | [1207-unique-number-of-occurrences](https://github.com/codietg/DSA_leet/tree/master/1207-unique-number-of-occurrences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/codietg/DSA_leet/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2352-equal-row-and-column-pairs](https://github.com/codietg/DSA_leet/tree/master/2352-equal-row-and-column-pairs) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codietg/DSA_leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0746-min-cost-climbing-stairs](https://github.com/codietg/DSA_leet/tree/master/0746-min-cost-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
