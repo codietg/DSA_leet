@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/codietg/DSA_leet/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/codietg/DSA_leet/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/codietg/DSA_leet/tree/master/0349-intersection-of-two-arrays) |
 | [0697-degree-of-an-array](https://github.com/codietg/DSA_leet/tree/master/0697-degree-of-an-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/codietg/DSA_leet/tree/master/0202-happy-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/codietg/DSA_leet/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -117,9 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/codietg/DSA_leet/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codietg/DSA_leet/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/codietg/DSA_leet/tree/master/0349-intersection-of-two-arrays) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/codietg/DSA_leet/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
