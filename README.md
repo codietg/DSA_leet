@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/codietg/DSA_leet/tree/master/0697-degree-of-an-array) |
 | [0735-asteroid-collision](https://github.com/codietg/DSA_leet/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/codietg/DSA_leet/tree/master/0746-min-cost-climbing-stairs) |
+| [1089-duplicate-zeros](https://github.com/codietg/DSA_leet/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/codietg/DSA_leet/tree/master/1207-unique-number-of-occurrences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/codietg/DSA_leet/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2352-equal-row-and-column-pairs](https://github.com/codietg/DSA_leet/tree/master/2352-equal-row-and-column-pairs) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/codietg/DSA_leet/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codietg/DSA_leet/tree/master/0349-intersection-of-two-arrays) |
+| [1089-duplicate-zeros](https://github.com/codietg/DSA_leet/tree/master/1089-duplicate-zeros) |
 ## Binary Search
 |  |
 | ------- |
