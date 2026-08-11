@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/codietg/DSA_leet/tree/master/0746-min-cost-climbing-stairs) |
 | [1089-duplicate-zeros](https://github.com/codietg/DSA_leet/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/codietg/DSA_leet/tree/master/1207-unique-number-of-occurrences) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/codietg/DSA_leet/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/codietg/DSA_leet/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2352-equal-row-and-column-pairs](https://github.com/codietg/DSA_leet/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/codietg/DSA_leet/tree/master/0649-dota2-senate) |
 | [0917-reverse-only-letters](https://github.com/codietg/DSA_leet/tree/master/0917-reverse-only-letters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/codietg/DSA_leet/tree/master/1657-determine-if-two-strings-are-close) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/codietg/DSA_leet/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/codietg/DSA_leet/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/codietg/DSA_leet/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/codietg/DSA_leet/tree/master/0414-third-maximum-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/codietg/DSA_leet/tree/master/1657-determine-if-two-strings-are-close) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/codietg/DSA_leet/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/codietg/DSA_leet/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3536-maximum-product-of-two-digits](https://github.com/codietg/DSA_leet/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
@@ -133,4 +136,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/codietg/DSA_leet/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/codietg/DSA_leet/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/codietg/DSA_leet/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/codietg/DSA_leet/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
