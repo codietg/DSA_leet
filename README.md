@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codietg/DSA_leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/codietg/DSA_leet/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/codietg/DSA_leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codietg/DSA_leet/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/codietg/DSA_leet/tree/master/0414-third-maximum-number) |
 | [0697-degree-of-an-array](https://github.com/codietg/DSA_leet/tree/master/0697-degree-of-an-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/codietg/DSA_leet/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/codietg/DSA_leet/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/codietg/DSA_leet/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/codietg/DSA_leet/tree/master/0349-intersection-of-two-arrays) |
 | [0697-degree-of-an-array](https://github.com/codietg/DSA_leet/tree/master/0697-degree-of-an-array) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/codietg/DSA_leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codietg/DSA_leet/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/codietg/DSA_leet/tree/master/0414-third-maximum-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/codietg/DSA_leet/tree/master/1657-determine-if-two-strings-are-close) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/codietg/DSA_leet/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/codietg/DSA_leet/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/codietg/DSA_leet/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/codietg/DSA_leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codietg/DSA_leet/tree/master/0349-intersection-of-two-arrays) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -148,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/codietg/DSA_leet/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/codietg/DSA_leet/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
