@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/codietg/DSA_leet/tree/master/0031-next-permutation) |
+| [0073-set-matrix-zeroes](https://github.com/codietg/DSA_leet/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codietg/DSA_leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/codietg/DSA_leet/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/codietg/DSA_leet/tree/master/0268-missing-number) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/codietg/DSA_leet/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/codietg/DSA_leet/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/codietg/DSA_leet/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/codietg/DSA_leet/tree/master/0290-word-pattern) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/codietg/DSA_leet/tree/master/0073-set-matrix-zeroes) |
 | [2352-equal-row-and-column-pairs](https://github.com/codietg/DSA_leet/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
