@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/codietg/DSA_leet/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/codietg/DSA_leet/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/codietg/DSA_leet/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codietg/DSA_leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/codietg/DSA_leet/tree/master/0228-summary-ranges) |
@@ -59,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/codietg/DSA_leet/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/codietg/DSA_leet/tree/master/0073-set-matrix-zeroes) |
 | [2352-equal-row-and-column-pairs](https://github.com/codietg/DSA_leet/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/codietg/DSA_leet/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/codietg/DSA_leet/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/codietg/DSA_leet/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/codietg/DSA_leet/tree/master/2390-removing-stars-from-a-string) |
