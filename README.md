@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/codietg/DSA_leet/tree/master/0584-find-customer-referee) |
 | [0607-sales-person](https://github.com/codietg/DSA_leet/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/codietg/DSA_leet/tree/master/0608-tree-node) |
+| [1148-article-views-i](https://github.com/codietg/DSA_leet/tree/master/1148-article-views-i) |
 | [1158-market-analysis-i](https://github.com/codietg/DSA_leet/tree/master/1158-market-analysis-i) |
 | [1393-capital-gainloss](https://github.com/codietg/DSA_leet/tree/master/1393-capital-gainloss) |
 | [1587-bank-account-summary-ii](https://github.com/codietg/DSA_leet/tree/master/1587-bank-account-summary-ii) |
