@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1158-market-analysis-i](https://github.com/codietg/DSA_leet/tree/master/1158-market-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/codietg/DSA_leet/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/codietg/DSA_leet/tree/master/1393-capital-gainloss) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/codietg/DSA_leet/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/codietg/DSA_leet/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/codietg/DSA_leet/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/codietg/DSA_leet/tree/master/1693-daily-leads-and-partners) |
