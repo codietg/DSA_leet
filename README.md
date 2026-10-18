@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/codietg/DSA_leet/tree/master/0175-combine-two-tables) |
 | [0184-department-highest-salary](https://github.com/codietg/DSA_leet/tree/master/0184-department-highest-salary) |
+| [0584-find-customer-referee](https://github.com/codietg/DSA_leet/tree/master/0584-find-customer-referee) |
 | [0607-sales-person](https://github.com/codietg/DSA_leet/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/codietg/DSA_leet/tree/master/0608-tree-node) |
 | [1158-market-analysis-i](https://github.com/codietg/DSA_leet/tree/master/1158-market-analysis-i) |
