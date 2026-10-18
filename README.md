@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1795-rearrange-products-table](https://github.com/codietg/DSA_leet/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/codietg/DSA_leet/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/codietg/DSA_leet/tree/master/1890-the-latest-login-in-2020) |
+| [1934-confirmation-rate](https://github.com/codietg/DSA_leet/tree/master/1934-confirmation-rate) |
 | [1965-employees-with-missing-information](https://github.com/codietg/DSA_leet/tree/master/1965-employees-with-missing-information) |
 | [3220-odd-and-even-transactions](https://github.com/codietg/DSA_leet/tree/master/3220-odd-and-even-transactions) |
 | [3421-find-students-who-improved](https://github.com/codietg/DSA_leet/tree/master/3421-find-students-who-improved) |
